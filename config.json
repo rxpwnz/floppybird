@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "@rxpwnz/floppybird",
+  "version": "0.1.0",
+  "repository": "https://github.com/rxpwnz/floppybird",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
