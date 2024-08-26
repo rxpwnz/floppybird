@@ -51,7 +51,8 @@ record:
   homepage: "$rcd_homepage"
   license: "$rcd_license"
   author: "$rcd_author"
-  tag: non-reference
+  tags:
+    - non-reference
   repository:
     - "$rcd_repository"
   repository_ref: "$CERC_REPO_REF"
